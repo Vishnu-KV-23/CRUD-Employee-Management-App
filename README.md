@@ -33,7 +33,7 @@ npm install
 npm start
 
 
-###Backend
+### Backend
 1.Navigate to the backend directory:
 cd backend
 2.Install the dependencies:
@@ -41,12 +41,12 @@ npm install
 3.run the code
 nodemon ./index.js
 
-###API Endpoints
+### API Endpoints
 POST /add: Add a new employee record.
 GET /view: Retrieve all employee records.
 PUT /update/: Update an employee record by ID.
 DELETE /remove/: Delete an employee record by ID.
-###Frontend Routes
+### Frontend Routes
 /: Add Employee (Form for adding new employees)
 /a: View Employees (Table displaying employee records)
 ###Postman Collection
@@ -56,12 +56,12 @@ The Postman collection for testing API endpoints is included in the Postman dire
 
 
 
-Contact
+## Contact
 For any questions or suggestions, you can reach me at wishnukv2349@gmail.com
 
 
 
-Summary
+## Summary
 Here’s a summary of what each file does and why it’s important for the repo:
 
 employee.js: Mongoose schema and model for the employee collection.
